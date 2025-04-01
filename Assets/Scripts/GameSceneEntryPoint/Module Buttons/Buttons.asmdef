@@ -1,0 +1,16 @@
+{
+    "name": "Buttons",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cffedcf60b9e9b841a852e6f095e49aa"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
